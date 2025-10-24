@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lógica de Programação - Primeira Avaliação (Java)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -120,3 +121,7 @@ Após o primeiro envio, use este fluxo mais simples para enviar suas atualizaç�
     ```bash
     git push origin main
     ```
+=======
+# atividade_mentoriatec
+avaliação 01
+>>>>>>> 316497fab01d8237bcd4b782efec332c7a77b599
