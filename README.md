@@ -8,8 +8,8 @@ Repositório criado para a Primeira Avaliação da disciplina Mentoria Tech sobr
 
 ## 👨‍💻 Aluno(a)
 
-*   **Nome:** ELLEN ISABELLY DA SILVA SANTOS
-*   **Email:** ellen.isabelly@aluno.edu.pi.gov.br
+*   **Nome:** MARIA EDUARDA CARVALHO DA SILVA
+*   **Email:** mariadudasilva2612@gmail.com
 
 ---
 
