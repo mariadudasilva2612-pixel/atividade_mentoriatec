@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lógica de Programação - Primeira Avaliação (Java)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -52,7 +52,7 @@ Para compilar e executar o projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/ellenisabelly-stack/atividade_mentoriatech.git
+    git clone https://github.com/mariadudasilva2612-pixel/atividade_mentoriatech.git
     cd atividade_mentoriatech
     ```
 
